@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31829.152
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.1_task", "5.1_task\5.1_task.csproj", "{6BA1265A-B9A0-49F1-8A08-EAAEAC88B781}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5.1_task", "5.1_task\5.1_task.csproj", "{6BA1265A-B9A0-49F1-8A08-EAAEAC88B781}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.2_task", "5.2_task\5.2_task.csproj", "{1750B1D8-0741-40E6-B948-8CBBEC17CEAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5.2_task", "5.2_task\5.2_task.csproj", "{1750B1D8-0741-40E6-B948-8CBBEC17CEAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.3_task", "5.3_task\5.3_task.csproj", "{875FAB34-4C44-4E34-8466-320B6C7E5875}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5.3_task", "5.3_task\5.3_task.csproj", "{875FAB34-4C44-4E34-8466-320B6C7E5875}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.4_task", "5.4_task\5.4_task.csproj", "{1278D0F6-724D-4C51-86D1-E72C8AC3B54A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5.4_task", "5.4_task\5.4_task.csproj", "{1278D0F6-724D-4C51-86D1-E72C8AC3B54A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.5_task", "5.5_task\5.5_task.csproj", "{8DD5E3F4-8332-44C9-983F-299AD77ACCFA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5.5_task", "5.5_task\5.5_task.csproj", "{8DD5E3F4-8332-44C9-983F-299AD77ACCFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.6_task", "5.6_task\5.6_task.csproj", "{31D1156C-A5D2-4F11-A8B1-89A5C2A22448}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5.6_task", "5.6_task\5.6_task.csproj", "{31D1156C-A5D2-4F11-A8B1-89A5C2A22448}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.1_task_remarks", "5.1_task_remarks\5.1_task_remarks.csproj", "{76C4C42E-8335-4509-8F0A-C96DA28C7676}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{31D1156C-A5D2-4F11-A8B1-89A5C2A22448}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31D1156C-A5D2-4F11-A8B1-89A5C2A22448}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31D1156C-A5D2-4F11-A8B1-89A5C2A22448}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76C4C42E-8335-4509-8F0A-C96DA28C7676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76C4C42E-8335-4509-8F0A-C96DA28C7676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76C4C42E-8335-4509-8F0A-C96DA28C7676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76C4C42E-8335-4509-8F0A-C96DA28C7676}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
